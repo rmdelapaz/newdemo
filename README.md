@@ -12,3 +12,4 @@ Steps:
 7. commit changes: git commit -m 'Updated README'
 8. push changes: git push origin main
 Dedrick was here
+Humberto was here 
